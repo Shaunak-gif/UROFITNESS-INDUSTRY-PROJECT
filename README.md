@@ -284,6 +284,6 @@ This project is licensed under the **MIT License** — feel free to use it for y
 
 <div align="center">
 
-Built with ❤️ for **URO FITNESS**, Pimpri, Pune 🏋️
+Built with ❤️ for **URO FITNESS**, Pune 🏋️
 
 </div>
