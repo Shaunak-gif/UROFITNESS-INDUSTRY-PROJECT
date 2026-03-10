@@ -125,4 +125,4 @@ Every `git push` auto-deploys to your live URL. No extra steps needed.
 
 ## 📞 Support
 
-Built by Claude (Anthropic) for URO FITNESS, Pimpri, Pune.
+Built for URO FITNESS, Nanded City, Pune.
